@@ -6,7 +6,6 @@
 |---------|-------------|
 | [algotrade2025](https://github.com/pitfa19/algotrade2025) | Async Python trading bots for the AlgoTrade 2025 hackathon |
 | [algotrade2026](https://github.com/pitfa19/algotrade2026) | Trading bots and research tooling for AlgoTrade 2026 |
-| [explore_unizg](https://github.com/pitfa19/explore_unizg) | Web-trilogy hackathon project |
 
 ### Tools
 
@@ -15,6 +14,7 @@
 | Project | Description |
 |---------|-------------|
 | [anatomed-web](https://github.com/pitfa19/anatomed-web) | React/Vite anatomy-study web prototype with embedded PDF docs |
+| [explore_unizg](https://github.com/pitfa19/explore_unizg) | Prerequisite-subject DAG explorer for horizontal mobility at UNIZG |
 
 #### Plugins (MCP, Obsidian)
 
