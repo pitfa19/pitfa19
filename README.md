@@ -9,6 +9,12 @@
 
 ### Tools
 
+#### Agent tools
+
+| Project | Description |
+|---------|-------------|
+| [mozak](https://github.com/pitfa19/mozak) | Git-native memory, planning, research, and reusable concepts for AI-assisted projects |
+
 #### Platforms (educational)
 
 | Project | Description |
