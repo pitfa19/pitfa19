@@ -1,0 +1,10 @@
+version: 1
+framework_contract_version: 1
+project:
+  id: pitfa19
+  name: "pitfa19"
+repository:
+  revision: 12e318f86c922d1d764a308a00ddb406be8c82d7
+owned_paths:
+  - .mozak
+  - README.md
