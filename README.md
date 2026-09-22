@@ -16,14 +16,6 @@
 | [mozak](https://github.com/pitfa19/mozak) | Git-native memory, planning, research, and reusable concepts for AI-assisted projects |
 | [monokl](https://github.com/pitfa19/monokl) | Jcode-focused fork of HyperResearch for evidence-grounded, resumable deep research |
 
-Install Monokl from `main`:
-
-```bash
-uv tool install --force 'git+https://github.com/pitfa19/monokl.git@main' && monokl jcode install --project . && monokl jcode doctor --project . --json
-```
-
-Monokl inherits the active Jcode coordinator model by default. Stage-specific routes can be supplied through `MONOKL_MODEL_ROUTES_JSON`.
-
 #### Platforms (educational)
 
 | Project | Description |
