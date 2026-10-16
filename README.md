@@ -29,6 +29,7 @@
 |---------|-------------|
 | [anatomed-obsidian](https://github.com/pitfa19/anatomed-obsidian) | Interactive, region-isolated 3D anatomy renderer for Obsidian |
 | [anatomed-mcp](https://github.com/pitfa19/anatomed-mcp) | MCP connector for the interactive, region-isolated 3D anatomy tool |
+| [obsidian-community-plugins-mcp](https://github.com/pitfa19/obsidian-community-plugins-mcp) | Lets coding agents check the Obsidian plugin directory before building, as a skill, CLI or MCP server |
 
 #### Visual tools
 
